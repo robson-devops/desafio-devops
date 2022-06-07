@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 80a468a50fdc933b7683d48a4d07398d076fa71f Robson Ferreira <br.robsonferreira@gmail.com> 1654526299 -0300	commit (initial): Initial commit
+80a468a50fdc933b7683d48a4d07398d076fa71f 919df8c86c76853f8d84f3e6954e5e791c8fa1b2 Robson Ferreira <br.robsonferreira@gmail.com> 1654526764 -0300	commit: Criado estrutura do projeto IAC e pipeline
+919df8c86c76853f8d84f3e6954e5e791c8fa1b2 b2f0bc1f14cce79a77f721925a96bee2b0edcf8b Robson Ferreira <br.robsonferreira@gmail.com> 1654527135 -0300	commit: Correção do arquivo .gitlab-ci.yml
+b2f0bc1f14cce79a77f721925a96bee2b0edcf8b 5d2467f58be4e527c9e5a4e92f1f7f8ae7ca009f Robson Ferreira <br.robsonferreira@gmail.com> 1654527581 -0300	commit: Correção do arquivo Dockerfile
+5d2467f58be4e527c9e5a4e92f1f7f8ae7ca009f c946d185bdf14a4c0bf14c994ef73e8f69d26358 Robson Ferreira <br.robsonferreira@gmail.com> 1654527926 -0300	commit: Correção do endereço da imagem docker de build
+c946d185bdf14a4c0bf14c994ef73e8f69d26358 dcfcbf24e3043a311762d896b946f4fdcc581e8e Robson Ferreira <br.robsonferreira@gmail.com> 1654528531 -0300	commit: Correção do arquivo .gitlab-ci.yml
+dcfcbf24e3043a311762d896b946f4fdcc581e8e 41215f5b24c88d59b56739d90ebe7251dedf7ee9 Robson Ferreira <br.robsonferreira@gmail.com> 1654528802 -0300	commit: .gitlab-ci.yml - Correção comando de build
+41215f5b24c88d59b56739d90ebe7251dedf7ee9 94af0765d5dc6d8d1fd569231d3dd097cebbaf57 Robson Ferreira <br.robsonferreira@gmail.com> 1654529620 -0300	commit: .gitlab-ci.yml - Correção comando de build
+94af0765d5dc6d8d1fd569231d3dd097cebbaf57 e505e21ba16a6558b416380795f9794a15b04710 Robson Ferreira <br.robsonferreira@gmail.com> 1654529757 -0300	commit: .gitlab-ci.yml - Correção comando de build
+e505e21ba16a6558b416380795f9794a15b04710 1f046f45bc2ae1af961c9dad294a6604b16193ea Robson Ferreira <br.robsonferreira@gmail.com> 1654529937 -0300	commit: Dockerfile - Correção comando COPY
+1f046f45bc2ae1af961c9dad294a6604b16193ea 51b234fb0e6201f021de144e6450c4c7f16f94b8 Robson Ferreira <br.robsonferreira@gmail.com> 1654531012 -0300	commit: .gitlab-ci.yml - Add stages package e publish
+51b234fb0e6201f021de144e6450c4c7f16f94b8 713b4c4f5ae0ec9b9033b23f349cac94cd3ae50f Robson Ferreira <br.robsonferreira@gmail.com> 1654531183 -0300	commit: .gitlab-ci.yml - Add stages package e publish
+713b4c4f5ae0ec9b9033b23f349cac94cd3ae50f acf9e7eeb98a1e1af08b632b552d6e385eb7ec60 Robson Ferreira <br.robsonferreira@gmail.com> 1654531499 -0300	commit: .gitlab-ci.yml - Correção de sintaxy
+acf9e7eeb98a1e1af08b632b552d6e385eb7ec60 2a2570b4daf2431f6f3f38ae1531a768d136d0bb Robson Ferreira <br.robsonferreira@gmail.com> 1654532112 -0300	commit: .gitlab-ci.yml - Alteração dos stages
+2a2570b4daf2431f6f3f38ae1531a768d136d0bb 3d54890f2c434d0b1733675bcdf67bca247a69d6 Robson Ferreira <br.robsonferreira@gmail.com> 1654532153 -0300	commit: .gitlab-ci.yml - Alteração dos stages
+3d54890f2c434d0b1733675bcdf67bca247a69d6 7e8034d2c95ccb09ae317c5c388b7c1a36ad36da Robson Ferreira <br.robsonferreira@gmail.com> 1654532333 -0300	commit: .gitlab-ci.yml - Correção do stage publish
+7e8034d2c95ccb09ae317c5c388b7c1a36ad36da 44fd3a4225f23db84c3d089ffb2ef79ae6b1cae1 Robson Ferreira <br.robsonferreira@gmail.com> 1654545321 -0300	commit: Criação de scripts para o provisionamento do ambiente
+44fd3a4225f23db84c3d089ffb2ef79ae6b1cae1 cc39bc4338e5c68a913bd7e67eb4fe7a2fa77b70 Robson Ferreira <br.robsonferreira@gmail.com> 1654546293 -0300	commit: .gitlab-ci.yml - Correção do stage terraform_deploy
+cc39bc4338e5c68a913bd7e67eb4fe7a2fa77b70 3235652c202d10c6cf88415fea67968e87216b18 Robson Ferreira <br.robsonferreira@gmail.com> 1654553201 -0300	commit: Documentação do projeto
+3235652c202d10c6cf88415fea67968e87216b18 5627098cf509315f5f69dcfbf910c7155111a930 Robson Ferreira <br.robsonferreira@gmail.com> 1654554754 -0300	commit: Documentação do projeto
