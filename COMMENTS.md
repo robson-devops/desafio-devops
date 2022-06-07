@@ -1,6 +1,6 @@
 # - Comentários
 
-Construi o projeto dessa maneira, pois por se tratar de um teste achei interessante demontrar como fazemos para criar uma solução utilizando várias ferramentas. Mesmo sabendo que existem diversas outras formas mais simples e atual, acreditando que desse jeito eu tenha conseguido passar para o avaliador, meus conhecimentos dessas ferramentas.
+Construi o projeto dessa maneira, pois por se tratar de um teste achei interessante demonstrar como fazemos para criar uma solução utilizando várias ferramentas. Mesmo sabendo que existem diversas outras formas mais simples e atual, acreditando que desse jeito eu tenha conseguido passar para o avaliador, meus conhecimentos dessas ferramentas.
 
 Eu poderia ter criado um contêiner Docker e ter realizado o deploy em um recurso ECS ou EKS da AWS, ou até mesmo utilizar recursos de outros provedores cloud como por exemplo, o Google Cloud. Para esse provedor, eu poderia ter criado um projeto utilizando todos os recursos nativos do mesmo, conforme a arquitetura abaixo:
 
